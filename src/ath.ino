@@ -23,7 +23,7 @@ uint64_t bound[3];
 
 /* Define this to be your byte sequence. The leftmost bit is the rightmost LED. */
 byte sequence[] = {
-	0b00000000, 0b11110000
+	0b0000, 0b1111
 };
 
 char buffer[256];
