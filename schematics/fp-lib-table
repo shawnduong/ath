@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Arduino_Library")(type "KiCad")(uri "${KIPRJMOD}/arduino-kicad-library/Arduino.pretty")(options "")(descr ""))
+  (lib (name "SN74HC595N")(type "KiCad")(uri "${KIPRJMOD}/SN74HC595N/SN74HC595N.pretty")(options "")(descr ""))
+  (lib (name "MINI-SPDT-SW")(type "KiCad")(uri "${KIPRJMOD}/MINI-SPDT-SW/MINI-SPDT-SW.pretty")(options "")(descr ""))
+)

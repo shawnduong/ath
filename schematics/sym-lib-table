@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Arduino_Library")(type "KiCad")(uri "${KIPRJMOD}/arduino-kicad-library/arduino.kicad_sym")(options "")(descr ""))
+  (lib (name "MINI-SPDT-SW")(type "KiCad")(uri "${KIPRJMOD}/MINI-SPDT-SW/MINI-SPDT-SW.kicad_sym")(options "")(descr ""))
+)
